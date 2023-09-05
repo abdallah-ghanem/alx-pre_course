@@ -1,2 +1,1 @@
-This is the README.md file for the 0x03-git directory.
-# alx-pre_course
+My first readme
